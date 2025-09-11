@@ -33,6 +33,8 @@ We used numerical and categorical data to solve these problems. Using the helper
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
+Our descriptive results show that c52 is much larger than c39. We can see that the average is higher, so even at its lowest, c52 is ahead of c39. With inference, we can make an educated guess that within the context of this problem, c52 will always be larger than c39, no matter which variable you are looking at.
+
 ## Descriptive Results
 
 ### Graphical Descriptive Results
