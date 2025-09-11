@@ -21,6 +21,8 @@ veggy <- cabbages
  
 ### Is there a difference in average VitC between c39 and c52 cultivation methods?  
 
+Yes, there is a significant difference in the amount of VitC between c39 and c52. We can see that c52 is much larger than c39, with the bottom of the box surpassing the top of c39's box. Thus, the average for c39 is much smaller than the average for c52.
+
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
