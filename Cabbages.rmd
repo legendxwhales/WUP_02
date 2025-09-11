@@ -47,6 +47,12 @@ This plot measures the amount of VitC dependent on the cultivation. The C52 box 
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+The Q3 for C39 has a value of 54.75 which is lower than the Q1 for C52. Normally, the result of Q3 being higher than that of Q1 means that they are significantly different. The probability of obtaining the other number is not likely. 
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
