@@ -37,6 +37,12 @@ Our descriptive results show that c52 is much larger than c39. We can see that t
 
 ## Descriptive Results
 
+```{r}
+boxplot(VitC~Cult,data=veggy)
+```
+
+This plot measures the amount of VitC dependent on the cultivation. The C52 box is higher than the top of the C39 box. This means that box C52 is significantly bigger than box C39.
+
 ### Graphical Descriptive Results
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
