@@ -27,6 +27,8 @@ Yes, there is a significant difference in the amount of VitC between c39 and c52
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+We used numerical and categorical data to solve these problems. Using the helper file numerical cat rmd, we are able to see the various boxplots we need in order to be successful. The boxpolot was the graphical method and the numerical method was taking that data from the box and interpreting it.
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
