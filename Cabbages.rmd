@@ -72,3 +72,5 @@ My hypothesis is the smaller the box plot, the less likely that plot will ever b
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+When comparing C52 and C39, we can see that the Q3 of C39 is 54.75, which is much lower than the Q1 of of C52, which is 58. Because of this, the two are significantly different. We also determined the averages between the two amounts, which shows that c52 is bigger in every variable. In conclusion, c52 is a better box plot to use tha c39 for its size and incredulous gap.
